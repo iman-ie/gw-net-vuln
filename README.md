@@ -24,6 +24,6 @@ traditional metrics such as **edge betweenness centrality** or **ΔMSP (change i
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/gw-net-vuln.git
+git clone https://github.com/iman_ie/gw-net-vuln.git
 cd gw-net-vuln
 pip install -r requirements.txt
